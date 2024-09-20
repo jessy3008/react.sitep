@@ -1,0 +1,17 @@
+.carta {
+    background-color: #2b1e34;
+    padding: 2rem;
+    text-align: center;
+}
+
+.carta h1 {
+    color: #d57bed;
+}
+
+.carta p {
+    color: #eb9add;
+}
+
+.carta h3 {
+    color:white;
+}

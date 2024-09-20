@@ -1,0 +1,23 @@
+.habilidades {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 2rem;
+    background-color: #2b1e34;
+    color:white;
+}
+
+.habilidades img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-right: 2rem;
+}
+
+.skills ul {
+    list-style: none;
+}
+
+.skills ul li {
+    margin-bottom: 0.5rem;
+}

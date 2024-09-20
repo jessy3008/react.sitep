@@ -1,0 +1,42 @@
+.projetos {
+    padding: 2rem;
+    background-color: #2b1e34;
+    text-align: center;
+    color:white;
+}
+
+.project-cards {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 2rem;
+}
+
+.project-card {
+    background-color: #753a86;
+    padding: 1.5rem;
+    width: 30%;
+    border-radius: 10px;
+    margin: 15px;
+}
+
+.project-link {
+    display: inline-block;
+    margin-top: 10px;
+    padding: 8px 15px;
+    background-color: #d946ef;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+.project-link:hover {
+    background-color: #be185d;
+}
+
+.project-card p {
+    margin-bottom: 10px;
+    font-size: 0.9rem;
+    line-height: 1.4;
+    padding: 10px;
+}

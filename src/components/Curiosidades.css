@@ -1,0 +1,45 @@
+.curiosidades {
+    text-align: center;
+    padding: 2rem 0;
+    background-color: #753a86;
+}
+
+.curiosidades h2 {
+    margin-bottom: 1rem;
+    font-size: 2rem;
+    color: #ffffff;
+}
+
+.curiosidades .icons {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 6rem;
+    margin-top: 1.5rem;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.curiosidades .icon {
+    text-align: center;
+    background-color: #2b1e34;
+    padding: 1rem;
+    border-radius: 8px;
+    transition: transform 0.3s ease;
+}
+
+.curiosidades .icon:hover {
+    transform: scale(1.05);
+}
+
+.curiosidades .icon img {
+    width: 60px;
+    height: 60px;
+    object-fit: contain;
+    margin-bottom: 0.5rem;
+}
+
+.curiosidades .icon p {
+    font-size: 0.9rem;
+    line-height: 1.4;
+    color: #f6f6f6;
+}
