@@ -16,3 +16,5 @@ npm install
 npm start
 
 ## Link para visualização online:
+Tentei fazer o link com o Pages, mas deu erro e não consegui consertar. O link ficou redirecionando o meu readme, e não soube alterar. 
+https://jessy3008.github.io/react.sitep/
