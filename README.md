@@ -16,4 +16,4 @@ npm install
 npm start
 
 ## Link para visualização online
-Tentei fazer o link com o Pages, mas deu erro e não consegui consertar. O link ficou redirecionando o meu readme, e não soube alterar. Para visualizar o site, rode o projeto localmente conforme as isntruções acima.
+Tentei fazer o link com o Pages, mas deu erro e não consegui consertar. O link ficou redirecionando o meu readme, e não soube alterar. Para visualizar o site, rode o projeto localmente conforme as instruções acima.
