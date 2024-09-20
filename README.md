@@ -1,4 +1,4 @@
-# Meu Site Pessoal
+# Site Pessoal com REACT
 Este é o meu projeto de site pessoal com react, desenvolvido para a disciplina de Programação para internet.
 
 ## Instruções para Rodar o Projeto Localmente
